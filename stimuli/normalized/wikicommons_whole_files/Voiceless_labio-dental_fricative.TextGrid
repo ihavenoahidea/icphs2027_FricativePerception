@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.88178125 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.88178125 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053373300768041775 
+            text = "" 
+        intervals [2]:
+            xmin = 0.053373300768041775 
+            xmax = 0.6534070786689068 
+            text = "fa" 
+        intervals [3]:
+            xmin = 0.6534070786689068 
+            xmax = 0.9072072667105259 
+            text = "" 
+        intervals [4]:
+            xmin = 0.9072072667105259 
+            xmax = 1.7391078830691662 
+            text = "afa" 
+        intervals [5]:
+            xmin = 1.7391078830691662 
+            xmax = 1.88178125 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "segment" 
+        xmin = 0 
+        xmax = 1.88178125 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053373300768041775 
+            text = "" 
+        intervals [2]:
+            xmin = 0.053373300768041775 
+            xmax = 0.2366734365758778 
+            text = "f" 
+        intervals [3]:
+            xmin = 0.2366734365758778 
+            xmax = 0.6534070786689068 
+            text = "a" 
+        intervals [4]:
+            xmin = 0.6534070786689068 
+            xmax = 0.9072072667105259 
+            text = "" 
+        intervals [5]:
+            xmin = 0.9072072667105259 
+            xmax = 1.0137406789749093 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.0137406789749093 
+            xmax = 1.2518741887423543 
+            text = "f" 
+        intervals [7]:
+            xmin = 1.2518741887423543 
+            xmax = 1.7391078830691662 
+            text = "a" 
+        intervals [8]:
+            xmin = 1.7391078830691662 
+            xmax = 1.88178125 
+            text = "" 

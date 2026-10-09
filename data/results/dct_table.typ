@@ -1,0 +1,20 @@
+#table(
+  columns: 5,
+  stroke: none,
+  table.hline(y: 0, stroke: 1pt),
+  table.hline(y: 1, stroke: 0.5pt),
+  table.hline(y: 13, stroke: 1pt),
+  table.header[Fricative][DCT0][DCT1][DCT2][DCT3],
+  [bilabial], [0.62], [-0.04], [-1.23], [-1.2],
+  [labio-dental], [-0.53], [0.19], [2.29], [0.79],
+  [dental], [6.48], [6.47], [0.5], [-2.52],
+  [alveolar], [-0.66], [2.29], [-3.17], [2.61],
+  [palato-alveolar], [1.75], [-1.16], [-7.06], [11.54],
+  [retroflex], [3.16], [-0.64], [-1.18], [-0.04],
+  [alveolo-palatal], [1.82], [0.09], [0.31], [-0.25],
+  [palatal], [-0.37], [-0.01], [0.05], [0.05],
+  [velar], [3.47], [-5.1], [7.64], [-0.73],
+  [uvular], [4.11], [10.44], [14.99], [-0.66],
+  [pharyngeal], [0.56], [-5.02], [3.15], [-1.31],
+  [glottal], [0.54], [0.02], [5.92], [37.74]
+)

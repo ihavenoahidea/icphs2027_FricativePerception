@@ -1,0 +1,20 @@
+#table(
+  columns: 5,
+  stroke: none,
+  table.hline(y: 0, stroke: 1pt),
+  table.hline(y: 1, stroke: 0.5pt),
+  table.hline(y: 13, stroke: 1pt),
+  table.header[Fricative][COG (Hz)][SD (Hz)][Skew][Kurtosis],
+  [bilabial], [4064], [2508.41], [0.52], [-0.43],
+  [labio-dental], [6700], [2623.39], [-0.4], [-0.62],
+  [dental], [4659], [2878.86], [0.34], [-0.84],
+  [alveolar], [6640], [2580.28], [-0.26], [-0.78],
+  [palato-alveolar], [5060], [2315.46], [0.22], [-0.57],
+  [retroflex], [4338], [2522.52], [0.88], [0.02],
+  [alveolo-palatal], [5225], [2607.61], [0.37], [-0.85],
+  [palatal], [4826], [2856.47], [0.46], [-0.8],
+  [velar], [4332], [2659.11], [0.44], [-0.74],
+  [uvular], [4475], [2767.27], [0.65], [-0.3],
+  [pharyngeal], [4266], [2447.93], [0.35], [-0.6],
+  [glottal], [3924], [2610.05], [0.74], [-0.28]
+)

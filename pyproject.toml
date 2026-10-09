@@ -1,0 +1,35 @@
+[project]
+name = "icphs2027_FricativePerception"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fileorganize>=0.0.4",
+    "jupytext>=1.17.3",
+    "librosa>=0.11.0",
+    "numpy>=2.3.3",
+    "pandas>=2.3.3",
+    "phonlab>=0.0.38",
+    "procrustes>=0.2.1",
+    "pydub>=0.25.1",
+    "pypst>=0.8.0",
+    "rsatoolbox>=0.3.2",
+    "seaborn>=0.13.2",
+    "snakemake>=9.19.0",
+    "soundfile>=0.13.1",
+    "statsmodels>=0.14.6",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipython>=9.6.0",
+    "jupyter>=1.1.1",
+    "jupytext>=1.17.3",
+    "ruff>=0.14.0",
+]
+
+
+[tool.jupytext]
+formats = "ipynb,py:percent"

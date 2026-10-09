@@ -1,0 +1,23 @@
+#table(
+  columns: 7,
+  stroke: none,
+  table.hline(y: 0, stroke: 1pt),
+  table.hline(y: 1, stroke: 0.5pt),
+  table.hline(y: 16, stroke: 1pt),
+  table.header[Meadows alias][Age range][Gender][Race/ethnicity][English onset][Other languages][Headphones check],
+  [teaching-swan], [25-34], [Female], [Black American], [None selected], [Na], [No],
+  [giving-chigger], [44-54], [Male], [White], [At birth], [None], [No],
+  [handy-mongoose], [18-24], [Female], [White], [At birth], [None], [No],
+  [calm-mongrel], [55-65], [Female], [White], [At birth], [None], [No],
+  [tolerant-mantis], [44-54], [Male], [White], [At birth], [English Only], [Yes],
+  [winter-pangolin], [25-34], [Female], [Black American], [At birth], [English], [Yes],
+  [sunny-bedbug], [35-44], [Female], [White], [At birth], [None], [Yes],
+  [lasting-haddock], [25-34], [Woman], [Black], [At birth], [Only English.], [Yes],
+  [smooth-spaniel], [18-24], [Male], [White], [Before age 5], [Jamaican Patois], [Yes],
+  [classic-lionfish], [35-44], [Male], [Black], [At birth], [None], [Yes],
+  [vast-gopher], [35-44], [Female], [Mixed], [At birth], [N/A], [Yes],
+  [refined-frog], [55-65], [Female], [White], [At birth], [None], [Yes],
+  [noble-catfish], [55-65], [Female], [White], [At birth], [None], [Yes],
+  [delicate-lamb], [25-34], [Female], [Asian], [At birth], [None], [Yes],
+  [bland-shrew], [44-54], [Female], [White], [None selected], [None], [Yes]
+)

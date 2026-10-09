@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Notebooks
+*.ipynb
+**/.ipynb-checkpoints/
+**/.ipynb_checkpoints
+
+# Misc
+**/.DS_Store
+**/.DS_Store/
+
+# Generated files
+data/results
+figures
+typst/draft.pdf
+
