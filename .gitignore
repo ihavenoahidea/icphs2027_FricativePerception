@@ -10,7 +10,6 @@ wheels/
 .venv
 
 # Notebooks
-*.ipynb
 **/.ipynb-checkpoints/
 **/.ipynb_checkpoints
 
